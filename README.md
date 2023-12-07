@@ -13,3 +13,4 @@ CounterStrikeSharp plugin for allowing players to move themselves to spec by typ
 `css_ct`: `!ct` in chat to join ct from spec/unassigned
 
 `css_t`: `!t` in chat to join t from spec/unassigned
+fv
